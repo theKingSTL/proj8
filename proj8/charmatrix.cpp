@@ -1,7 +1,7 @@
 #include "charmatrix.h"
 #include <iostream>
 #include <sys/ioctl.h>
-
+//Hello there 
 CharMatrix::CharMatrix()
 {
 }
